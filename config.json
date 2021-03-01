@@ -1,0 +1,19 @@
+{
+    "curEvn": {
+        "platform": "Web"
+    },
+
+    "platforms": {
+        "Web": {
+            "cdn": ""
+        },
+
+        "Web_Product": {
+            "cdn": "https://cdn.jsdelivr.net/gh/lear315/OwnCDN@1.0.5/ggj2021/"
+        },
+
+        "Wechat": {
+            "cdn": "https://cdn.jsdelivr.net/gh/lear315/OwnCDN@1.0.5/ggj2021/"
+        }
+    }
+}
